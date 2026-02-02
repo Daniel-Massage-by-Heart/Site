@@ -26,7 +26,7 @@
 <br /><img src="Services/Reiki/reiki-massage.jpg" alt="Reiki Massage">
 
 - Sensitive Massage
-<br /><img src="Services/Sensitive Massage/sensitive-massage.jpg" alt="Sensitive Massage">
+<br /><img src="Services/Sensitive Massage/sensitive_massage.jpg" alt="Sensitive Massage">
 
 - Massage on Events
 <br /><img src="Services/Massage on Events/massage-on-events.jpg" alt="Massage on Events">
