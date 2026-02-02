@@ -5,7 +5,7 @@
 ## Services
 
 - Relaxing Massage: 
-<br /><img src="Services/Relaxing Massage/relaxing-massage.webp" alt="Relaxing Massage">
+<br /><img src="Services/Relaxing Massage/relaxing-massage.jpg" alt="Relaxing Massage">
 
 - Deep Tissue Massage
 <br /><img src="Services/Deep Tissue Massage/deep-tissue-massage.webp" alt="Deep Tissue Massage">
