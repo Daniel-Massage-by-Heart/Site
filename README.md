@@ -15,7 +15,7 @@
 <br /><img src="Services/Deep Tissue Massage/deep-tissue-massage.jpg" alt="Deep Tissue Massage">
 
 - Mobile Massage
-<br /><img src="Services/Mobile Massage/massage-studio.jpeg" alt="Mobile Massage">
+<br /><img src="Services/Mobile Massage/massage_studio.jpeg" alt="Mobile Massage">
 
 - Couples Massage
 <br /><img src="Services/Couples Massage/couples-massage.webp" alt="Couples Massage">
