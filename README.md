@@ -37,6 +37,10 @@
 
 <br />
 
+<strong>Daniel Massage by Heart came from Queenstown Mobile Massage.</strong>
+
+<br /><img src="Contact-Me/daniel-massage.jpg" alt="Daniel Massage">
+
 [Contact Me](https://api.whatsapp.com/send?phone=64272473900)
 
 <br />
