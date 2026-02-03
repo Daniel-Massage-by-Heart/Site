@@ -20,6 +20,9 @@
 - Couples Massage
 <br /><img src="Services/Couples Massage/couples-massage.webp" alt="Couples Massage">
 
+- A Group Booking
+<br /><img src="Services/A Group Booking/a-group-booking.jpg" alt="A Group Booking">
+
 - Body Revival
 <br /><img src="Services/Body Revival/body-revival.webp" alt="Body Revival">
 
