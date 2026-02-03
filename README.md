@@ -6,6 +6,7 @@
 
 - Exhilarating Massage: 
 <br /><img src="Services/Exhilarating Massage/exhilarating-massage.jpg" alt="Exhilarating Massage">
+<br /><img src="Services/Exhilarating Massage/exhilarating_massage.jpg" alt="Exhilarating Massage">
 
 - Relaxing Massage: 
 <br /><img src="Services/Relaxing Massage/relaxing-massage.jpg" alt="Relaxing Massage">
