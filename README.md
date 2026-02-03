@@ -30,7 +30,7 @@
 <br /><img src="Services/Sensitive Massage/sensitive_massage.jpg" alt="Sensitive Massage">
 
 - Massage on Events
-<br /><img src="Services/Massage on Events/massage-on-events.jpg" alt="Massage on Events">
+<br /><img src="Services/Massage on Events/massage-on-events.jpeg" alt="Massage on Events">
 
 <br />
 
